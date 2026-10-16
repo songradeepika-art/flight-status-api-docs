@@ -1,2 +1,2 @@
 # flight-status-api-docs
-A portfolio project demonstrating clear, tested flight-status API documentation.
+A portfolio project for learning and developing flight-status API documentation.
